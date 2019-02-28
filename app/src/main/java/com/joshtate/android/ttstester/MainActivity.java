@@ -1,3 +1,5 @@
+// Used this tutorial to understand TTS:
+// https://www.tutorialspoint.com/android/android_text_to_speech.htm
 package com.joshtate.android.ttstester;
 
 import android.os.Build;
